@@ -8,25 +8,24 @@ A colour picker with a simple contrast preview
 
 ## install
 
-I recommend installing [AutoHotkey](https://www.autohotkey.com/)
-then running `bow.ahk`
+Install [AutoHotkey](https://www.autohotkey.com/) then run `bow.ahk`
+(recommended)
 
 or
 
 Grab the latest bow.exe from
-[releases](https://github.com/phantomdiorama/bow/releases/)
+[releases](https://github.com/phantomdiorama/bow/releases/) (may be
+outdated)
 
 ## usage
 
-On startup bow sits in the system tray.
-To capture the colour (in hex format) under the cursor and add it to the
-clipboard press:
+On startup Bow sits in the system tray. Press `win + middleclick` (or `win
++ leftclick` on a laptop) to capture the colour under the cursor and add
+it to the clipboard (in hex format).
 
-`window + middleclick`
-
-or
-
-`windows + leftclick`
+The GUI window’s background shows the selected colour, and previews the
+contrast against black and white text (see screenshot). Hit the x to close
+it.
 
 ## screenshot
 
@@ -34,4 +33,5 @@ or
 
 ## acknowledgements
 
-Rainbow icon by Microsoft. Licensed under MIT.
+Rainbow icon is part of FluentUI Emoji 3D Icons by Microsoft. Licensed
+under MIT.
