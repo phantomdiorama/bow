@@ -20,7 +20,7 @@ outdated)
 ## usage
 
 On startup Bow sits in the system tray. Press `win + middleclick`
-(or `win + leftclick` on a laptop) to capture the colour under the cursor and add
+(or `win + leftclick`) to capture the colour under the cursor and add
 it to the clipboard (in hex format).
 
 The GUI window’s background shows the selected colour, and previews the
