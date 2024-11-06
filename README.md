@@ -14,7 +14,7 @@ Install [AutoHotkey](https://www.autohotkey.com/) then run `bow.ahk`
 or
 
 Grab the latest bow.exe from
-[releases](https://github.com/phantomdiorama/bow/releases/) (may be
+[releases](https://github.com/phantomdiorama/bow/releases/) (probably
 outdated)
 
 ## usage
